@@ -1,0 +1,193 @@
+.navy {
+	background-color: red;
+}
+.wrapper {
+	background-color: #696969;
+	font-family: 'Signika', sans-serif;
+}
+h1, h3 {
+	color: white;
+}
+.contact{
+	color: white;
+}
+.contact p {
+	font-size: 12px;
+}
+.any-scroll {
+	height:200px;
+  	overflow-y: scroll;
+
+}
+.book-button {
+	background:#0c9b87;
+    font-family:'Lato',sans-serif;
+    color:#000;
+    font-size:1em;
+    font-weight:400;
+    text-align:center;
+    border:none!important;
+    /*border-radius:3px;*/
+    padding:10px 25px;
+    margin-right: 10px; 
+}
+.card {
+  	background-color: #696969;
+  	color: white;
+}
+.head-bord {
+	border-top: 4px solid #0c9b87;
+	color: #0c9b87;
+}
+.head-text {
+	border-top: 4px solid white;
+	color: white;
+}
+.text-color {
+	color: white;
+}
+.firm p {
+	color: white;
+	font-size: 12px;
+}
+.firm img {
+	height: 720px;
+}
+.team {
+	color: white;
+}
+.practice {
+	color: white;
+}
+.practice p {
+	font-size: 14px; 
+}
+.card-style {
+	background-color: #696969;
+	color: white;
+	border-top: 4px solid white;
+}
+.contact-card {
+	background-color: #0c9b87;
+
+}
+.contact-text {
+	color: black;
+	font-size: 12px;
+}
+.card-block {
+	margin-left: 15px;
+	margin-right: 10px;
+}
+.practice-areas {
+	border-top: 4px solid #0c9b87;
+}
+.practice-areas ul {
+	list-style-type:none;
+}
+.contact-a {
+	color: #0c9b87;
+}
+.list {
+	font-size: 20px;
+}
+
+.p-font {
+	font-size: 15px;
+}
+.footer {
+	height: 75px;
+	background-color: white;
+	color: black;
+	padding-top: 25px;
+	font-size: 12px;
+	position: relative;
+} 
+.footer ul {
+    text-align: right;
+    list-style-type:none;
+    padding-left:0;
+}
+ 
+.footer ul li {
+    text-align:center;
+    display:inline-block;
+    background:rgba(0,0,0,0.2);
+    color:#fff;
+    line-height:45px;
+    margin:0 4px;
+    width:45px!important;
+    height:45px!important;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+}
+ 
+.footer ul li:hover {
+    background:#2a2a2a;
+}
+ 
+.footer ul li:hover a {
+    color:#fff;
+}
+ 
+.footer ul li a {
+    color:#fff;
+    width:42px!important;
+    height:42px!important;
+}
+ 
+.footer ul li a i {
+    line-height:45px;
+    color:#fff;
+}
+
+ 
+.footer a,.footer a:hover {
+    color:#fff;
+}
+
+input.form-control {
+    background:#696969;
+    border:solid 1px #ddd;
+    color:#000;
+    margin-right:3%;
+    margin-bottom:10px;
+    outline:none;
+    border-radius: 0;
+}
+ 
+textarea.form-control {
+    background:#696969;
+    color:#000;
+    border:solid 1px #ddd;
+    margin-bottom:40px;
+    outline:none;
+    height:200px;
+    border-radius: 0;
+}
+ 
+button.contact.submit {
+    background:#0c9b87;
+    font-family:'Lato',sans-serif;
+    color:#fff;
+    font-size:1em;
+    font-weight:400;
+    text-align:center;
+    border:none!important;
+    /*border-radius:3px;*/
+    padding:10px 25px;
+    margin-right: 10px;
+}
+ 
+button.contact.submit:hover {
+    background:#0c9b87;
+}
+ 
+.form-control:focus{
+    border-color: #563d7c;
+    outline: 0;
+}
+ 
+.done {
+    display:none;
+}
